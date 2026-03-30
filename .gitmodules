@@ -1,0 +1,30 @@
+[submodule "python-celery-worker"]
+	path = python-celery-worker
+	url = git@github.com:GetWebstack-public/python-celery-worker.git
+[submodule "python-data-science"]
+	path = python-data-science
+	url = git@github.com:GetWebstack-public/python-data-science.git
+[submodule "python-django"]
+	path = python-django
+	url = git@github.com:GetWebstack-public/python-django.git
+[submodule "python-fastapi"]
+	path = python-fastapi
+	url = git@github.com:GetWebstack-public/python-fastapi.git
+[submodule "python-flask"]
+	path = python-flask
+	url = git@github.com:GetWebstack-public/python-flask.git
+[submodule "python-litestar"]
+	path = python-litestar
+	url = git@github.com:GetWebstack-public/python-litestar.git
+[submodule "python-ml-pytorch"]
+	path = python-ml-pytorch
+	url = git@github.com:GetWebstack-public/python-ml-pytorch.git
+[submodule "python-sanic"]
+	path = python-sanic
+	url = git@github.com:GetWebstack-public/python-sanic.git
+[submodule "python-starlette"]
+	path = python-starlette
+	url = git@github.com:GetWebstack-public/python-starlette.git
+[submodule "python-tornado"]
+	path = python-tornado
+	url = git@github.com:GetWebstack-public/python-tornado.git
