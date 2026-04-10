@@ -75,6 +75,9 @@ Looking for a frontend + backend starting point? Check out the fullstack templat
 
 | Collection | Description |
 |------------|-------------|
+| [.NET](https://github.com/GetWebstack-public/.NET) | Hello World templates for .NET (ASP.NET Core, Blazor, F#) |
 | [go-projects](https://github.com/GetWebstack-public/go-projects) | Hello World templates for Go backends |
+| [java](https://github.com/GetWebstack-public/java) | Hello World templates for Java and JVM languages |
 | [js-ts-backend](https://github.com/GetWebstack-public/js-ts-backend) | Hello World templates for JavaScript and TypeScript backends |
 | [js-ts-frontend](https://github.com/GetWebstack-public/js-ts-frontend) | Hello World templates for JavaScript and TypeScript frontends |
+| [php](https://github.com/GetWebstack-public/php) | Hello World templates for PHP backends |
